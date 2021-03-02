@@ -42,7 +42,6 @@ include:
   - "*.less"
   - "*.sublime-project"
   - "*.sublime-workspace"
-exclude:
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
@@ -62,3 +61,4 @@ exclude:
   - package.json
   - spec
   - tmp
+exclude:
